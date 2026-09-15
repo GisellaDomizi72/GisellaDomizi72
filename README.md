@@ -57,14 +57,14 @@
 Sistema web con login para pacientes y dentistas, gestión de turnos y notificaciones. 
 Integrado por dos módulos, de escritorio-administrativo y web-pacientes/dentistas.  
 
-![Repo Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=GisellaDomizi72&repo=Clinica-Dental-MVC-PHP&theme=radical)
-![Repo Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=GisellaDomizi72&repo=Clinica_Dental-MVC&theme=radical)
+https://github.com/GisellaDomizi72/Clinica-Dental-MVC-PHP
+https://github.com/GisellaDomizi72/Clinica_Dental-MVC
 
 🔹 **App Movile Red de Contactos de Alquileres**
 
 App Android para gestionar y consultar contactos de alquileres.  
 
-![Repo Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=GisellaDomizi72&repo=Lavalle-Alquileres&theme=radical)
+https://github.com/GisellaDomizi72/Lavalle-Alquileres
 
 ---
 
